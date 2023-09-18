@@ -1,0 +1,10 @@
+fileignoreconfig:
+- filename: mvnw
+  checksum: b322646e22432d5c0dced86ea1c5755539cb18ccd19bb2543ee7ab7aff34d0ae
+- filename: src/main/java/com/file/scan/clamav/cache/MetaDataServiceCache.java
+  checksum: 3c6506d262d0488c1ea974901857b35edb90cf4e9f90332fcfc1708125889533
+- filename: src/main/java/com/file/scan/clamav/resource/FileScanController.java
+  checksum: a24d1516099bd3496bf48f1197473dedb8c9bfcd7a732d248a061be9afb68908
+- filename: virus-scan-ui/src/fileUploadM/views/Table.js
+  checksum: 0471d9124074e695de9efd3aa570ce5da49484b3b459b7fb1c25f33bc904316f
+version: ""
